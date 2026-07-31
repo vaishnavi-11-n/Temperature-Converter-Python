@@ -68,6 +68,12 @@ python temperature_converter.py
 
 ---
 
+## 📈 Project Status
+
+✅ Completed
+
+This project represents my learning in Python GUI development and will be enhanced with additional features in future versions as I continue learning.
+
 ## Author
 
 **Vaishnavi Parab**
